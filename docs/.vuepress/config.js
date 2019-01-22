@@ -56,28 +56,21 @@ module.exports = {
     sidebar: {
       // docs文件夹下面的accumulate文件夹 文档中md文件 书写的位置(命名随意)
       '/blog/': [
+        '/blog/', 
         '/blog/h5ym/', 
         '/blog/chromesearch/',
         '/blog/qdgspg/',
       ],
       '/copy/': [
         '/copy/',
-        {
-          title: 'test',
-          children: [
-            '/copy/test'
-          ]
-        }
+        '/copy/zq/', 
+        '/copy/tyyh/',
+        '/copy/kyfw/',
       ],
       // docs文件夹下面的algorithm文件夹 这是第二组侧边栏 跟第一组侧边栏没关系
       '/life/': [
         '/life/',
-        {
-          title: 'test',
-          children: [
-            '/life/test'
-          ]
-        }
+        '/life/knlh/', 
       ]
     }
   }

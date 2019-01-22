@@ -21,7 +21,7 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "6bec80843d62d127eefdb0681a0b14cd"
+    "revision": "04153aaaed0d73abf5c592f4df54e30f"
   },
   {
     "url": "assets/css/0.styles.63e9daa3.css",
@@ -32,80 +32,104 @@ self.__precacheManifest = [
     "revision": "83621669651b9a3d4bf64d1a670ad856"
   },
   {
-    "url": "assets/js/10.d357c810.js",
-    "revision": "b8b0c5777b97f0762a4e9474d675cd1e"
+    "url": "assets/js/10.17783390.js",
+    "revision": "2306648925418cb1de8abbed92d571d0"
   },
   {
-    "url": "assets/js/11.412d3f93.js",
-    "revision": "22cf950f6d4aede90f7b8304e8206e23"
+    "url": "assets/js/11.d15f2d33.js",
+    "revision": "2cd209ee934346cef7b32c508a86ab60"
   },
   {
-    "url": "assets/js/2.ffa447b6.js",
-    "revision": "1f5d4c9e375b52947e2f4ab644908970"
+    "url": "assets/js/12.746b071a.js",
+    "revision": "f3bf2b6f3d253c0d7d1a875553048adb"
   },
   {
-    "url": "assets/js/3.ec02a4a4.js",
-    "revision": "e3e727e3c07db2088586c76d7ee18aa2"
+    "url": "assets/js/13.5d60a999.js",
+    "revision": "a560720aad44857d1314b421e422dcc5"
   },
   {
-    "url": "assets/js/4.2278017d.js",
-    "revision": "ffd235ee44da96d82db3a8643d9a04d2"
+    "url": "assets/js/14.4aba3685.js",
+    "revision": "a50fbf25add2d891a86c027c0c74300f"
   },
   {
-    "url": "assets/js/5.3fff3c01.js",
-    "revision": "5323b89893a8647d3b17581f49a38d13"
+    "url": "assets/js/2.41a8d502.js",
+    "revision": "61ec9a2c9767b47fc91cf4693718c220"
   },
   {
-    "url": "assets/js/6.2b8c73dd.js",
-    "revision": "5b5a02e5d99190864453c88cf3e18b35"
+    "url": "assets/js/3.25af511c.js",
+    "revision": "e5c2f84ac06ef6c2baaf179192f25bec"
   },
   {
-    "url": "assets/js/7.33381fa1.js",
-    "revision": "a26354327b4e18d27fac27fed72e78ec"
+    "url": "assets/js/4.55eef681.js",
+    "revision": "2ddc27ed0bff5b02c341d1056e794c32"
   },
   {
-    "url": "assets/js/8.a776b911.js",
-    "revision": "200afbe9a2b729367a4926941c7cd121"
+    "url": "assets/js/5.824e550a.js",
+    "revision": "153a98f17d7fc4a8d3f46b03fa37f5f7"
   },
   {
-    "url": "assets/js/9.0a8fdec5.js",
-    "revision": "6509d0f580aa3fca073d412bc28e663c"
+    "url": "assets/js/6.e905a355.js",
+    "revision": "6c3fb346290dbe5ced18f237c6d23b38"
   },
   {
-    "url": "assets/js/app.3814e384.js",
-    "revision": "b99d0ba2a42138be29226155397b8c13"
+    "url": "assets/js/7.21534fca.js",
+    "revision": "8f818899c1ca29a8b8d25491828b9def"
+  },
+  {
+    "url": "assets/js/8.57dea2e5.js",
+    "revision": "2d94655b19da2ca01318a542ad82a17d"
+  },
+  {
+    "url": "assets/js/9.63e6194a.js",
+    "revision": "170159a4d8fa97aaacc8702e367c9a21"
+  },
+  {
+    "url": "assets/js/app.b4ffbb26.js",
+    "revision": "63769fc9eb43735f5808640d5992f12d"
   },
   {
     "url": "blog/chromesearch/index.html",
-    "revision": "268e1a602bcd2920702296522968875a"
+    "revision": "4cbf1a23eeef2a33aa44c073c9a30134"
   },
   {
     "url": "blog/h5ym/index.html",
-    "revision": "829b1226c8cfac66a46e3064938c1f8b"
+    "revision": "3b7006988b0030c07536c4a50d49aec6"
+  },
+  {
+    "url": "blog/index.html",
+    "revision": "1f1b70447dcaa486df3aaa907ace8814"
   },
   {
     "url": "blog/qdgspg/index.html",
-    "revision": "f1f8048379a0fb55c974008d26479147"
+    "revision": "e2d058f32a6cc47f9e8dcfb6f991b7a0"
   },
   {
     "url": "copy/index.html",
-    "revision": "c2c10008bfc623360c759eff688647e5"
+    "revision": "1ab10cc96d476ba497cfcaaf603e8742"
   },
   {
-    "url": "copy/test.html",
-    "revision": "41dc020d359bf2d3d2746abbe3cc89ab"
+    "url": "copy/kyfw/index.html",
+    "revision": "48d5788960f4a5400cc0dd77693d7f61"
+  },
+  {
+    "url": "copy/tyyh/index.html",
+    "revision": "1ec8d18f6df3a3519cb069e475d8dea7"
+  },
+  {
+    "url": "copy/zq/index.html",
+    "revision": "1f56ec8f03078fb4b5bb6f49a2c3e3d8"
   },
   {
     "url": "index.html",
-    "revision": "fe01b0ac9a73bb6f9f446eb3f3f1cb01"
+    "revision": "a89a685faa373df6d641cbd6676bfb39"
   },
   {
     "url": "life/index.html",
-    "revision": "252a2ba0669e21187dd93135ab79f60f"
+    "revision": "608073b450949316209be147ac1d8554"
   },
   {
-    "url": "life/test.html",
-    "revision": "42234e199007ec8452a1aeb7b025ec99"
+    "url": "life/knlh/index.html",
+    "revision": "80177d37c4bddfc24f8e76c6c04ffd20"
   },
   {
     "url": "logo.jpg",
