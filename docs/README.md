@@ -2,7 +2,7 @@
 home: true
 heroImage: /logo.jpg
 actionText: 欢迎光临 →
-actionLink: /article/
+actionLink: /blog/
 features:
 - title: 学习笔记
   details: 学习、工作的笔记，成长中的点点滴滴。

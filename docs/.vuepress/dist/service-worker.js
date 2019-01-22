@@ -21,7 +21,7 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "04153aaaed0d73abf5c592f4df54e30f"
+    "revision": "633168dbb37925d37a427c990375232b"
   },
   {
     "url": "assets/css/0.styles.63e9daa3.css",
@@ -84,52 +84,52 @@ self.__precacheManifest = [
     "revision": "170159a4d8fa97aaacc8702e367c9a21"
   },
   {
-    "url": "assets/js/app.b4ffbb26.js",
-    "revision": "63769fc9eb43735f5808640d5992f12d"
+    "url": "assets/js/app.1274310c.js",
+    "revision": "cd21e8fa449a27b6496d1b908c1be88c"
   },
   {
     "url": "blog/chromesearch/index.html",
-    "revision": "4cbf1a23eeef2a33aa44c073c9a30134"
+    "revision": "342ab5ea15707404487b141e342937aa"
   },
   {
     "url": "blog/h5ym/index.html",
-    "revision": "3b7006988b0030c07536c4a50d49aec6"
+    "revision": "973f78c26c9b960a7ae38a5bf55ba37a"
   },
   {
     "url": "blog/index.html",
-    "revision": "1f1b70447dcaa486df3aaa907ace8814"
+    "revision": "b8a6ab3f77608f20252eac89288ff2a3"
   },
   {
     "url": "blog/qdgspg/index.html",
-    "revision": "e2d058f32a6cc47f9e8dcfb6f991b7a0"
+    "revision": "07b264d38c175c357ff232dd43f46a75"
   },
   {
     "url": "copy/index.html",
-    "revision": "1ab10cc96d476ba497cfcaaf603e8742"
+    "revision": "35dd5bd65e17529ef012d770d23b19a5"
   },
   {
     "url": "copy/kyfw/index.html",
-    "revision": "48d5788960f4a5400cc0dd77693d7f61"
+    "revision": "da2be03e32459c6ad980e71313027efc"
   },
   {
     "url": "copy/tyyh/index.html",
-    "revision": "1ec8d18f6df3a3519cb069e475d8dea7"
+    "revision": "67403715726e92c2fd312d23a8d0f13e"
   },
   {
     "url": "copy/zq/index.html",
-    "revision": "1f56ec8f03078fb4b5bb6f49a2c3e3d8"
+    "revision": "c135904d18b62aed8fbcdf58c5fd2c9c"
   },
   {
     "url": "index.html",
-    "revision": "a89a685faa373df6d641cbd6676bfb39"
+    "revision": "8df8e2b6270ed7cd10ec7fdd4bf555ef"
   },
   {
     "url": "life/index.html",
-    "revision": "608073b450949316209be147ac1d8554"
+    "revision": "efb9c72abe89fd1b7471f33118777eba"
   },
   {
     "url": "life/knlh/index.html",
-    "revision": "80177d37c4bddfc24f8e76c6c04ffd20"
+    "revision": "96ba27dba030200e001cfb464b2c965d"
   },
   {
     "url": "logo.jpg",
